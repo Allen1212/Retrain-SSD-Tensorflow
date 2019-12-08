@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Retrain_Dataset</folder>
+	<filename>2019-11-05 10:23:22.065879.jpg</filename>
+	<path>/home/ubuntu/Downloads/Retrain_Dataset/2019-11-05 10:23:22.065879.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1010</xmin>
+			<ymin>496</ymin>
+			<xmax>1102</xmax>
+			<ymax>575</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>559</xmin>
+			<ymin>478</ymin>
+			<xmax>911</xmax>
+			<ymax>718</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,2 @@
+car_tfrecords/voc_2007_train_000.tfrecord filter=lfs diff=lfs merge=lfs -text
+checkpoints/retrianed_ssd_model.zip filter=lfs diff=lfs merge=lfs -text
